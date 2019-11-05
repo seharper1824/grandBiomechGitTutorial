@@ -1,4 +1,4 @@
-Hello!
+Hello, world!
 
 Welcome to the git tutorial!
 

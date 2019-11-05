@@ -1,0 +1,5 @@
+Hello!
+
+Welcome to the git tutorial!
+
+Please flip your cards to green if you are reading this :)
